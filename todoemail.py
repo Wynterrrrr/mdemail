@@ -18,7 +18,12 @@ MONITORED_FILES = [
         "name": "Temp.md",
         "web_url": "https://github.com/Wynterrrrr/ObsdianDrive/blob/main/Todo/Temp.md",
         "api_url": "https://api.github.com/repos/Wynterrrrr/ObsdianDrive/contents/Todo/Temp.md",
-    }
+    },
+    {
+        "name": "Work To-Do.md",
+        "web_url": "https://github.com/Wynterrrrr/ObsdianDrive/blob/main/Todo/Work%20To-Do.md",
+        "api_url": "https://api.github.com/repos/Wynterrrrr/ObsdianDrive/contents/Todo/Work%20To-Do.md",
+    } # 20260303 添加
 ]
 
 
